@@ -1,1 +1,1 @@
-# Welcome, wanderer
+# Welcome, user
