@@ -20,6 +20,3 @@
 ‣ 𝖭𝗈𝖽𝖾𝖩𝖲</br>
 ‣ 𝖢𝗋𝖾𝖺𝗍𝗂𝗇𝗀 𝖠𝖯𝖨</br>
 ‣ 𝖮𝗏𝖾𝗋𝖺𝗅𝗅 𝖡𝖺𝖼𝗄-𝖾𝗇𝖽
-
-## Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WeissRobin&layout=compact&bg_color=fffefe)
