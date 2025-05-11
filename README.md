@@ -17,7 +17,6 @@
 <img width='50px' src="https://github.com/user-attachments/assets/45573e1b-d695-4840-a9b7-9497049a7cc9" />
 
 ## Currently learning 💡
-‣ 𝖭𝗈𝖽𝖾𝖩𝖲</br>
 ‣ 𝖢𝗋𝖾𝖺𝗍𝗂𝗇𝗀 𝖠𝖯𝖨</br>
 ‣ 𝖮𝗏𝖾𝗋𝖺𝗅𝗅 𝖡𝖺𝖼𝗄-𝖾𝗇𝖽</br>
-‣ Shaders
+‣ Canvas
